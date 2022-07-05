@@ -1,5 +1,6 @@
 # Netflix
 USER-AGENT,Argo*
+DOMAIN-SUFFIX,greencloud.iwoov.com
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
