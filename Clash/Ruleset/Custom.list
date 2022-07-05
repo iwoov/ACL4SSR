@@ -14,3 +14,4 @@ DOMAIN-SUFFIX,relay.nekoneko.cloud
 DOMAIN-SUFFIX,immtel.com
 DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,image.tmdb.org
+IP-CIDR,203.20.113.34/32
