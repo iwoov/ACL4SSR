@@ -18,3 +18,15 @@ DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,storage.live.com
 DOMAIN-SUFFIX,storage.msn.com
 #DOMAIN-SUFFIX,aria.microsoft.com
+#pikpak域名开始
+DOMAIN-SUFFIX,pdl-a10b-0393.mypikpak.com
+DOMAIN-SUFFIX,pdl-a10b-0394.mypikpak.com
+DOMAIN-SUFFIX,pdl-a10b-0395.mypikpak.com
+DOMAIN-SUFFIX,pdl-a10b-0480.mypikpak.com
+DOMAIN-SUFFIX,pdl-a10b-0482.mypikpak.com
+DOMAIN-SUFFIX,pdl-a10b-0483.mypikpak.com
+DOMAIN-SUFFIX,pdl-a10b-0484.mypikpak.com
+DOMAIN-SUFFIX,pdl-a10b-0469.mypikpak.com
+DOMAIN-SUFFIX,pdl-a10b-0470.mypikpak.com
+DOMAIN-SUFFIX,*.mypikpak.com
+#pikpak域名结束 
