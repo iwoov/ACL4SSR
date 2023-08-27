@@ -1,1 +1,8 @@
-
+DOMAIN-KEYWORD,riotcdn
+DOMAIN-KEYWORD,riotgames
+DOMAIN-KEYWORD,leagueoflegends
+DOMAIN-SUFFIX,*.riotcdn.net
+DOMAIN-SUFFIX,*.riotgames.com
+DOMAIN-SUFFIX,*.pvp.net
+DOMAIN-SUFFIX,*.newrelic.com
+DOMAIN-SUFFIX,*.leagueoflegends.com
