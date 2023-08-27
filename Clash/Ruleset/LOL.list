@@ -1,10 +1,15 @@
+DOMAIN-SUFFIX,apne1-green.pp.sgp.pvp.net
+DOMAIN-SUFFIX,jp-red.lol.sgp.pvp.net
+DOMAIN-SUFFIX,feapp.jp1.lol.pvp.net
+DOMAIN-SUFFIX,insights-collector.newrelic.com
+DOMAIN-SUFFIX,metric-api.newrelic.com
+DOMAIN-SUFFIX,images.contentstack.io
+DOMAIN-SUFFIX,sentry.io
 DOMAIN-KEYWORD,riotcdn
 DOMAIN-KEYWORD,riotgames
 DOMAIN-KEYWORD,leagueoflegends
 DOMAIN-KEYWORD,newrelic
 DOMAIN-KEYWORD,pvp
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,insights-collector.newrelic.com
 DOMAIN-SUFFIX,*.riotcdn.net
 DOMAIN-SUFFIX,*.riotgames.com
 DOMAIN-SUFFIX,*.pvp.net
