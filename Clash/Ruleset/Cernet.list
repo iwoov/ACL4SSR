@@ -1,0 +1,20 @@
+# 内容：走教育网的网站
+# ZJU
+DOMAIN-SUFFIX,zju.edu.cn
+DOMAIN-SUFFIX,mail.zju.edu.cn
+DOMAIN-SUFFIX,myvpn.zju.edu.cn/home
+DOMAIN-SUFFIX,lsi.zju.edu.cn
+DOMAIN-SUFFIX,ccem.zju.edu.cn
+DOMAIN-SUFFIX,tyys.zju.edu.cn
+DOMAIN-SUFFIX,www.grs.zju.edu.cn
+# 学术资源网站
+DOMAIN-SUFFIX,www.ncbi.nlm.nih.gov
+DOMAIN-SUFFIX,www.cnki.net
+DOMAIN-SUFFIX,webofscience.clarivate.cn
+DOMAIN-SUFFIX,www.sciencedirect.com
+DOMAIN-SUFFIX,link.springer.com
+DOMAIN-SUFFIX,www.nature.com
+DOMAIN-SUFFIX,www.cell.com
+DOMAIN-SUFFIX,www.science.org
+DOMAIN-SUFFIX,wires.onlinelibrary.wiley.com
+DOMAIN-SUFFIX,academic.oup.com
