@@ -2,6 +2,8 @@
 # 数量：4条
 DOMAIN,ai.cn
 DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,ios.chat.openai.com
+DOMAIN-SUFFIX,ab.chatgpt.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,cdn.oaistatic.com
 DOMAIN-SUFFIX,files.oaiusercontent.com
