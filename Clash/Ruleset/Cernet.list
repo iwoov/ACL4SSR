@@ -1,18 +1,11 @@
 # 内容：走教育网的网站
 # ZJU
-DOMAIN-SUFFIX,zju.edu.cn
-DOMAIN-SUFFIX,mail.zju.edu.cn
-DOMAIN-SUFFIX,myvpn.zju.edu.cn/home
-DOMAIN-SUFFIX,lsi.zju.edu.cn
-DOMAIN-SUFFIX,ccem.zju.edu.cn
-DOMAIN-SUFFIX,tyys.zju.edu.cn
-DOMAIN-SUFFIX,www.grs.zju.edu.cn
-DOMAIN-SUFFIX,person.zju.edu.cn
 DOMAIN-SUFFIX,www.cc98.org
 DOMAIN-SUFFIX,file.cc98.org
 DOMAIN-SUFFIX,api.cc98.top
 DOMAIN-SUFFIX,wechat.cc98.top
 DOMAIN-SUFFIX,openid.cc98.top
+DOMAIN-SUFFIX,www.nexushd.org
 # 学术资源网站
 DOMAIN-SUFFIX,www.ncbi.nlm.nih.gov
 DOMAIN-SUFFIX,www.cnki.net
