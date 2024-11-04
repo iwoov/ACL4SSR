@@ -23,3 +23,6 @@ DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
+#Perplexity
+DOMAIN-SUFFIX,www.perplexity.ai
+DOMAIN-KEYWORD,perplexity
