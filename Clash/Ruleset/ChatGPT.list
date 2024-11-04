@@ -25,4 +25,5 @@ DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
 #Perplexity
 DOMAIN-SUFFIX,www.perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
 DOMAIN-KEYWORD,perplexity
