@@ -26,4 +26,5 @@ DOMAIN-KEYWORD,anthropic
 #Perplexity
 DOMAIN-SUFFIX,www.perplexity.ai
 DOMAIN-SUFFIX,pplx.ai
+DOMAIN-KEYWORD,gstatic
 DOMAIN-KEYWORD,perplexity
