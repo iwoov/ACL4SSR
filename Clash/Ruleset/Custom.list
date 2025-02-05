@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,cloud.iwoov.com
 DOMAIN-SUFFIX,image.tmdb.org
 # 自定义添加
 DOMAIN-SUFFIX,hostloc.com
+DOMAIN-SUFFIX,www.nodeseek.com
 DOMAIN-SUFFIX,www.deepl.com
 DOMAIN-SUFFIX,cloudsilk.io
 DOMAIN-SUFFIX,v2ex.com
