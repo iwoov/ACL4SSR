@@ -19,6 +19,9 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-KEYWORD,openai
+# grok
+DOMAIN-SUFFIX,grok.com
+DOMAIN-KEYWORD,grok
 # Claude
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-KEYWORD,claude
