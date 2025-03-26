@@ -3,8 +3,10 @@
 DOMAIN-SUFFIX,www.cc98.org
 DOMAIN-SUFFIX,file.cc98.org
 DOMAIN-SUFFIX,api.cc98.top
+DOMAIN-SUFFIX,static-inzju.cc98.top
 DOMAIN-SUFFIX,wechat.cc98.top
 DOMAIN-SUFFIX,openid.cc98.top
+DOMAIN-KEYWORD,cc98
 DOMAIN-SUFFIX,www.nexushd.org
 DOMAIN-SUFFIX,byr.pt
 DOMAIN-SUFFIX,tjupt.org
