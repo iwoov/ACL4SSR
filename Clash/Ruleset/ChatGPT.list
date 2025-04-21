@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-KEYWORD,openai
 # grok
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,api.x.ai
 DOMAIN-KEYWORD,grok
 # Claude
 DOMAIN-SUFFIX,claude.ai
