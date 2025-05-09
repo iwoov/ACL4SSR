@@ -32,3 +32,11 @@ DOMAIN-SUFFIX,www.perplexity.ai
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-KEYWORD,gstatic
 DOMAIN-KEYWORD,perplexity
+#cursor
+DOMAIN-SUFFIX,api2.cursor.sh
+DOMAIN-SUFFIX,api3.cursor.sh
+DOMAIN-SUFFIX,api4.cursor.sh
+DOMAIN-SUFFIX,repo42.cursor.sh
+DOMAIN-SUFFIX,marketplace.cursorapi.com
+DOMAIN-SUFFIX,us-only.gcpp.cursor.sh
+DOMAIN-KEYWORD,cursor
